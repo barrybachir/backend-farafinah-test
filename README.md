@@ -1,6 +1,6 @@
 # Backend Test - API Users/Auth
 
-API REST en TypeScript avec Express, Prisma (SQLite), JWT et documentation Swagger.
+API REST en TypeScript avec Express, Prisma (SQLite), JWT et documentation Swagger. Dans le cadre de l'evaluation technique pour Farafinah
 
 ## Stack technique
 
