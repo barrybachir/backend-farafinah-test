@@ -30,7 +30,9 @@ API REST en TypeScript avec Express, Prisma (SQLite), JWT et documentation Swagg
 
 Créer un fichier .env à la racine et coller ce qui suit :
 DATABASE_URL="file:./dev.db"
+
 JWT_SECRET="change_me_in_production"
+
 PORT=9090
 
 
